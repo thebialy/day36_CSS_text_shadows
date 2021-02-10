@@ -1,18 +1,18 @@
-@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
 body {
     background: #ff7e49;
-    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
 }
 
 .background {
     margin: auto;
-    height: 300px;
-    width: 300px;
+    height: 275px;
+    width: 275px;
     border-radius: 100%;
     background: #c9283e;
     margin-top: 100px;
-    margin-bottom: 25px;
+    margin-bottom: 50px;
 }
 
 h1 {
@@ -33,5 +33,5 @@ span:nth-child(3), span:nth-child(7) {
     }
     
 span:nth-child(1), span:nth-child(9), span:nth-child(5)  {
-      font-size: 80px;
+      font-size: 60px;
     }
