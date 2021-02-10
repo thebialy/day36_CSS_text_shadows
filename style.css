@@ -1,0 +1,11 @@
+body {
+    background: #20639B;
+}
+
+.background {
+    margin: auto;
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+    background: #173F5F;
+}
