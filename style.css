@@ -1,5 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
 body {
-    background: #3CAEA3;
+    background: #ff7e49;
+    font-family: 'Lobster', cursive;
 }
 
 .background {
@@ -7,7 +10,7 @@ body {
     height: 300px;
     width: 300px;
     border-radius: 100%;
-    background: #20639B;
+    background: #c9283e;
     margin-top: 150px;
 }
 
@@ -21,7 +24,7 @@ h1 {
     -o-transform: scale(1) rotate(-5deg) translateX(0px) translateY(0px) skewX(1deg) skewY(1deg);
     -ms-transform: scale(1) rotate(-5deg) translateX(0px) translateY(0px) skewX(1deg) skewY(1deg);
     transform: scale(1) rotate(-5deg) translateX(0px) translateY(0px) skewX(1deg) skewY(1deg);
-    text-shadow: 1px 1px #173F5F, 2px 2px #173F5F, 3px 3px #173F5F, 4px 4px #173F5F, 5px 5px #173F5F, 6px 6px #173F5F, 7px 7px #173F5F, 8px 8px #173F5F, 9px 9px #173F5F, 10px 10px #173F5F, 11px 11px #173F5F, 12px 12px #173F5F, 13px 13px #173F5F, 14px 14px #173F5F, 15px 15px #173F5F, 16px 16px #173F5F, 17px 17px #173F5F, 18px 18px #173F5F, 19px 19px #173F5F, 20px 20px #173F5F, 21px 21px #173F5F, 22px 22px #173F5F, 23px 23px #173F5F, 24px 24px #173F5F, 25px 25px #173F5F, 26px 26px 6px #173F5F;
+    text-shadow: 1px 1px #7e0130, 2px 2px #7e0130, 3px 3px #7e0130, 4px 4px #7e0130, 5px 5px #7e0130, 6px 6px #7e0130, 7px 7px #7e0130, 8px 8px #7e0130, 9px 9px #7e0130, 10px 10px #7e0130, 11px 11px #7e0130, 12px 12px #7e0130, 13px 13px #7e0130, 14px 14px #7e0130, 15px 15px #7e0130, 16px 16px #7e0130, 17px 17px #7e0130, 18px 18px #7e0130, 19px 19px #7e0130, 20px 20px #7e0130, 21px 21px #7e0130, 22px 22px #7e0130, 23px 23px #7e0130, 24px 24px #7e0130, 25px 25px #7e0130, 26px 26px 6px #7e0130;
 }
 
 span:nth-child(3), span:nth-child(7) { 
